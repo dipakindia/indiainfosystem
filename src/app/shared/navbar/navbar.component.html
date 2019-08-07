@@ -1,0 +1,9 @@
+<nav id="menu" class="main-menu">
+  <ul>
+    <li *ngFor = "let item of menuItems"><span><a href = "pages/{{item.path}}">{{ item.title }}</a></span>
+      <ul *ngIf = "item.sub.length">
+          <li *ngFor = "let sub of item.sub"><a href = "pages/{{item.path}}/{{ sub.path }}">{{ sub.title }}</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>

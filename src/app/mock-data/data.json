@@ -1,0 +1,30 @@
+{
+    "site_name": "India infosystem",
+    "logo": "",
+    "logo_url": "",
+    "home": {
+        "banners": [
+            { 
+                "id": "1", 
+                "banner_title": "CUSTOMIZED WORDPRESS SOLUTIONS",
+                "banner_tagline": "Powerful, Professional and Intuitive Platform"
+            }
+        ],
+        "services": {
+            "title": "Why Choose India Infosystem",
+            "tagline": "Creativity is contagious pass it on",
+            "data": [
+                { "id": "1", "name": "Web Design", "icon": "pe-7s-medal", "description": "Id mea congue dictas nec et summo mazim impedit. Vim te audiam impetus interpretaris cum no alii option cu sit mazim libris. "},
+                { "id": "2", "name": "Web Developement", "icon": "pe-7s-help2", "description": "Id mea congue dictas nec et summo mazim impedit. Vim te audiam impetus interpretaris cum no alii option cu sit mazim libris. "},
+                { "id": "3", "name": "SEO and SMO", "icon": "pe-7s-culture", "description": "Id mea congue dictas nec et summo mazim impedit. Vim te audiam impetus interpretaris cum no alii option cu sit mazim libris. "},
+                { "id": "4", "name": "Wordpress Developement", "icon": "pe-7s-headphones", "description": "Id mea congue dictas nec et summo mazim impedit. Vim te audiam impetus interpretaris cum no alii option cu sit mazim libris. "},
+                { "id": "5", "name": "E-commerce Application", "icon": "pe-7s-credit", "description": "Id mea congue dictas nec et summo mazim impedit. Vim te audiam impetus interpretaris cum no alii option cu sit mazim libris. "},
+                { "id": "6", "name": "Api Dev & integration", "icon": "pe-7s-chat", "description": "Id mea congue dictas nec et summo mazim impedit. Vim te audiam impetus interpretaris cum no alii option cu sit mazim libris. "}
+              ]
+        },
+        "portfolio": {
+            "title": "Popular poject done by India Infosystem",
+            "tagline": "Cum doctus civibus efficiantur in imperdiet deterruisset."
+        } 
+    }    
+}
